@@ -9,8 +9,8 @@ A small React-Redux app to fetch top articles from selected subreddit
 * center panel showing top 10 posts from selected subreddit
 
 2. Wireframes:
-* Desktop: [desktop wireframe link]()
-* Mobile: [mobile wireframe link]()
+* Desktop: [desktop wireframe link](./wireframes/wireframe-desktop.png)
+* Mobile: [mobile wireframe link](./wireframes/wireframe-mobile.png)
 ---
 
 3. User stories:
